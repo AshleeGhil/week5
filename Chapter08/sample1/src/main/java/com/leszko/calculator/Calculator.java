@@ -1,17 +1,12 @@
-/**
-* Here is a java comment.
-* 
-*/
+<module name="JavadocType">
+   <property name="scope" value="public"/>
+</module>
 
 package com.leszko.calculator;
 
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
-/**
-* Here is a java comment.
-* 
-*/
 
 @Service
 public class Calculator {
