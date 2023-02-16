@@ -1,7 +1,17 @@
+/**
+* Here is a java comment.
+* 
+*/
+
 package com.leszko.calculator;
 
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
+
+/**
+* Here is a java comment.
+* 
+*/
 
 @Service
 public class Calculator {
