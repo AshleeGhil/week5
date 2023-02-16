@@ -1,6 +1,6 @@
-<module name="JavadocType">
-   <property name="scope" value="public"/>
-</module>
+/**
+ * here is a comment. 
+ */
 
 package com.leszko.calculator;
 
